@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RandomNum",
+            "request": "launch",
+            "mainClass": "RandomNum",
+            "projectName": "Yash_72e11176"
+        },
+        {
+            "type": "java",
             "name": "RandomNumbers",
             "request": "launch",
             "mainClass": "RandomNumbers",
